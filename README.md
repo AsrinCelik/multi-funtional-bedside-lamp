@@ -18,4 +18,4 @@ NECESSARY MATERIALS:
 - 1 single color LED.
 
  
- I share fritzing file of this project also I will put there a screenshot to people who do not use fritzing.
+ I shared fritzing file of this project and arduino codes also I will share a screenshot of fritzing file to people who do not use fritzing. If you want to use my code you have to download some libraries. I shared these libraries to.
