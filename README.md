@@ -1,6 +1,6 @@
 # multi-functional-bedside-lamp
 WHAT İS THİS LAMP:
-  This is a lamp that could show you date, humidity, temperature, clock and also it can close and open itself according to the light conditions of your room. You can change the light value, which enables the light to turn off in the light and turn on in the dark, from within the software. If you dont want to close light automatically, you can deactivate this feature.
+  This is a lamp that could give you information about date, humidity, temperature and clock. Also it can close and open itself according to the light conditions of your room. You can change the light value, which enables the light to turn off in the light and turn on in the dark, from within the software. If you dont want to close light automatically, you can deactivate this feature.
   
   
 NECESSARY MATERIALS:
