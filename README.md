@@ -12,7 +12,7 @@ NECESSARY MATERIALS:
 - 1 IR remote control device
 - 1 16*2 LCD screen (with I2C module)
 - 1 DHT11 temperature and humidity sensor (If you want to measure conditions with higher accuracy you can use DHT21.)
-- 1 RTC module
+- 1 RTC module. (I used DS3231.)
 - 1 4 digit, 7 segment display. (I used TM1637.)
 - RGB LEDs. (One of them will be used to show us is temperature high or low. Others will be used for just lighting.)
 - 1 single color LED.
